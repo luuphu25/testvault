@@ -2,4 +2,5 @@
 *.pem
 *.csr
 .vscode
-venv
+env
+__pycache__
