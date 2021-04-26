@@ -1,0 +1,5 @@
+*.crt
+*.pem
+*.csr
+.vscode
+venv

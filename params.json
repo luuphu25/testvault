@@ -1,0 +1,11 @@
+{
+    "authority": "https://login.microsoftonline.com/[tenantID]",
+    "client_id": "[clientID]",
+    "scope": ["https://vault.azure.net/.default"],
+    "thumbprint": "[thumbprint]",
+    "private_key_file": "[private key location. ex: key.cer]",
+    "secretName" : "secret in vault",
+    "vault_url": "[vault url]"
+}
+
+
